@@ -8,9 +8,12 @@ import requests
 import BeautifulSoup
 import multiprocessing
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
 
 #---------------------- Constants ----------------------
 BASE_URL= "https://magiccards.info"
+LANGUAGE= "en"
 PRICE_TAGS= ["TCGPHiLoLow", "TCGPHiLoMid", "TCGPHiLoHigh"]
 PRICE_NOT_FOUND_STR= ""
 
@@ -32,19 +35,44 @@ class Price(object):
 def getPage(url):
     """Returns: unicode object containing raw <url> html, with JS loaded.
        Precondition: url is a str."""
-    driver= webdriver.Chrome()
+    opts= Options()
+    opts.add_argument("--headless")
+    driver= webdriver.Chrome(chrome_options=opts)
     try:
         driver.get(url)
     except:
         print "Error: invalid url %s" % url
-    return driver.page_source
+    src= driver.page_source
+    driver.quit()
+    return src
+
+
+def makeSetPageUrl(setStr):
+    """Returns: string encoding url for the landing page of the given set.
+       Precondition: setStr is a str."""
+    return "%s/%s/%s.html" % (BASE_URL, setStr.lower(), LANGUAGE)
+
+
+def parseCardUrls(url, pageSrc):
+    """Returns: list of strings encoding urls to individual cards from the set.
+       Precondition: url is string built from BASE_URL; pageSrc is a string."""
+    pageSrc= getPage(url)
+    parser= BeautifulSoup.BeautifulSoup(pageSrc)
+    cardUrlRegex= re.compile("%s/.*.html" % url[len(BASE_URL) : url.rfind(".")])
+    rawTags= parser.findAll("a", {"href": cardUrlRegex})
+    if len(rawTags) == 0:
+        return "Error: set landing page %s is invalid."
+    rawTags= map(lambda x: str(x), rawTags)
+    cardUrls= map(lambda x: "%s%s" % (BASE_URL, x[x.find("\"")+1 : x.find(">")-1]), rawTags)
+    for i in cardUrls:
+        print i
 
 
 def parsePrices(url, pageSrc):
     """Returns: filled Price object if pageSrc is valid; None otherwise
-       Precondition: pageSrc and url are strs."""
+       Precondition: url is string built from BASE_URL; pageSrc is a string."""
     parser= BeautifulSoup.BeautifulSoup(pageSrc)
-    #All cards have names - presence == validity
+    #All cards have names: no name == invalid url
     name= str(parser.find("a", {"href": url[len(BASE_URL):]}))
     try:
         name= name[name.index(">")+1 : name.rindex("<")]
@@ -59,15 +87,20 @@ def parsePrices(url, pageSrc):
         else:
             lmh[i]= PRICE_NOT_FOUND_STR
     return Price(name, lmh[0], lmh[1], lmh[2])
-    
+
+
+
 
 
 
 def main():
-    url= "https://magiccards.info/al/en/281.html"
+    url= "https://magiccards.info/xln/en.html"
     pageSrc= getPage(url)
-    price= parsePrices(url, pageSrc)
-    print price
+    parseCardUrls(url, pageSrc)
+    #url= "https://magiccards.info/al/en/281.html"
+    #pageSrc= getPage(url)
+    #price= parsePrices(url, pageSrc)
+    #print price
 
 
 

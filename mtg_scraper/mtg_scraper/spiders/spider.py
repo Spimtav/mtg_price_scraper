@@ -14,7 +14,7 @@ class MtgScraper(scrapy.Spider):
     ]
 
     def parse(self, response):
-        for setPage in response.css("li a::attr(href)").re(r"/.*/en.html")[:1]:
+        for setPage in response.css("li a::attr(href)").re(r"/.*/en.html")[:20]:
             self.log("Found a link to set: %s" % setPage)
             yield response.follow(setPage, callback=self.parseSetPage)
         self.log("Finished following set links.")

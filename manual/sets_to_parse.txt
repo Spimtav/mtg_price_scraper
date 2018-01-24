@@ -1,0 +1,222 @@
+Ixalan: /xln/en.html
+Hour of Devastation: /hou/en.html
+Magic Origins: /ori/en.html
+Amonkhet Invocations: /mpsakh/en.html
+Ixalan: /xln/en.html
+Hour of Devastation: /hou/en.html
+Amonkhet: /akh/en.html
+Aether Revolt: /aer/en.html
+Kaladesh: /kld/en.html
+Eldritch Moon: /emn/en.html
+Shadows over Innistrad: /soi/en.html
+Oath of the Gatewatch: /ogw/en.html
+Battle for Zendikar: /bfz/en.html
+Dragons of Tarkir: /dtk/en.html
+Fate Reforged: /frf/en.html
+Khans of Tarkir: /ktk/en.html
+Journey into Nyx: /jou/en.html
+Born of the Gods: /bng/en.html
+Theros: /ths/en.html
+Dragon's Maze: /dgm/en.html
+Gatecrash: /gtc/en.html
+Return to Ravnica: /rtr/en.html
+Avacyn Restored: /avr/en.html
+Dark Ascension: /dka/en.html
+Innistrad: /isd/en.html
+New Phyrexia: /nph/en.html
+Mirrodin Besieged: /mbs/en.html
+Scars of Mirrodin: /som/en.html
+Rise of the Eldrazi: /roe/en.html
+Worldwake: /wwk/en.html
+Zendikar: /zen/en.html
+Alara Reborn: /arb/en.html
+Conflux: /cfx/en.html
+Shards of Alara: /ala/en.html
+Eventide: /eve/en.html
+Shadowmoor: /shm/en.html
+Morningtide: /mt/en.html
+Lorwyn: /lw/en.html
+Future Sight: /fut/en.html
+Planar Chaos: /pc/en.html
+Time Spiral: /ts/en.html
+Time Spiral "Timeshifted": /tsts/en.html
+Coldsnap: /cs/en.html
+Alliances: /ai/en.html
+Ice Age: /ia/en.html
+Dissension: /di/en.html
+Guildpact: /gp/en.html
+Ravnica: City of Guilds: /rav/en.html
+Saviors of Kamigawa: /sok/en.html
+Betrayers of Kamigawa: /bok/en.html
+Champions of Kamigawa: /chk/en.html
+Fifth Dawn: /5dn/en.html
+Darksteel: /ds/en.html
+Mirrodin: /mi/en.html
+Scourge: /sc/en.html
+Legions: /le/en.html
+Onslaught: /on/en.html
+Judgment: /ju/en.html
+Torment: /tr/en.html
+Odyssey: /od/en.html
+Apocalypse: /ap/en.html
+Planeshift: /ps/en.html
+Invasion: /in/en.html
+Prophecy: /pr/en.html
+Nemesis: /ne/en.html
+Mercadian Masques: /mm/en.html
+Urza's Destiny: /ud/en.html
+Urza's Legacy: /ul/en.html
+Urza's Saga: /us/en.html
+Exodus: /ex/en.html
+Stronghold: /sh/en.html
+Tempest: /tp/en.html
+Weatherlight: /wl/en.html
+Visions: /vi/en.html
+Mirage: /mr/en.html
+Homelands: /hl/en.html
+Fallen Empires: /fe/en.html
+The Dark: /dk/en.html
+Legends: /lg/en.html
+Antiquities: /aq/en.html
+Arabian Nights: /an/en.html
+Magic Origins: /ori/en.html
+Magic 2015: /m15/en.html
+Magic 2014 Core Set: /m14/en.html
+Magic 2013: /m13/en.html
+Magic 2012: /m12/en.html
+Magic 2011: /m11/en.html
+Magic 2010: /m10/en.html
+Tenth Edition: /10e/en.html
+Ninth Edition: /9e/en.html
+Eighth Edition: /8e/en.html
+Seventh Edition: /7e/en.html
+Classic Sixth Edition: /6e/en.html
+Fifth Edition: /5e/en.html
+Fourth Edition: /4e/en.html
+Revised Edition (Summer Magic "Edgar"): /summer/en.html
+Revised Edition: /rv/en.html
+Unlimited Edition: /un/en.html
+Limited Edition Beta: /be/en.html
+Limited Edition Alpha: /al/en.html
+Vintage Masters: /vma/en.html
+MTGO Masters Edition IV: /me4/en.html
+MTGO Masters Edition III: /me3/en.html
+MTGO Masters Edition II: /me2/en.html
+MTGO Masters Edition: /med/en.html
+Amonkhet Invocations: /mpsakh/en.html
+Kaladesh Inventions: /mpskld/en.html
+Zendikar Expeditions: /exp/en.html
+Conspiracy: Take the Crown: /cn2/en.html
+Conspiracy: /cns/en.html
+Premium Deck Series: Graveborn: /pd3/en.html
+Premium Deck Series: Fire and Lightning: /pd2/en.html
+Premium Deck Series: Slivers: /pds/en.html
+Iconic Masters: /ima/en.html
+Modern Masters 2017 Edition: /mm3/en.html
+Eternal Masters: /ema/en.html
+Modern Masters 2015 Edition: /mm2/en.html
+Tempest Remastered: /tpr/en.html
+Modern Event Deck: /md1/en.html
+Modern Masters: /mma/en.html
+Duels of the Planeswalkers: /dpa/en.html
+Chronicles: /ch/en.html
+Explorers of Ixalan: /e02/en.html
+Commander 2017: /c17/en.html
+Archenemy: Nicol Bolas: /e01/en.html
+Commander Anthology: /cma/en.html
+Commander 2016: /c16/en.html
+Planechase Anthology: /pca/en.html
+Commander 2015: /c15/en.html
+Commander 2014 Edition: /c14/en.html
+Commander 2013 Edition: /c13/en.html
+Commander's Arsenal: /cma/en.html
+Planechase 2012 Edition: /pc2/en.html
+Commander: /cmd/en.html
+Archenemy: /arc/en.html
+Planechase: /pch/en.html
+From the Vault: Transform: /v17/en.html
+From the Vault: Lore: /v16/en.html
+From the Vault: Angels: /v15/en.html
+From the Vault: Annihilation: /v14/en.html
+From the Vault: Twenty: /v13/en.html
+From the Vault: Realms: /v12/en.html
+From the Vault: Legends: /fvl/en.html
+From the Vault: Relics: /fvr/en.html
+From the Vault: Exiled: /fve/en.html
+From the Vault: Dragons: /fvd/en.html
+Duel Decks: Merfolk vs. Goblins: /ddt/en.html
+Duel Decks: Mind vs. Might: /dds/en.html
+Duel Decks: Nissa vs. Ob Nixilis: /ddr/en.html
+Duel Decks: Blessed vs. Cursed: /ddq/en.html
+Duel Decks: Zendikar vs. Eldrazi: /ddp/en.html
+Duel Decks Anthology: Divine vs. Demonic: /ddadvd/en.html
+Duel Decks Anthology: Elves vs. Goblins: /ddaevg/en.html
+Duel Decks Anthology: Garruk vs. Liliana: /ddagvl/en.html
+Duel Decks Anthology: Jace vs. Chandra: /ddajvc/en.html
+Duel Decks: Kiora vs. Elspeth: /ddo/en.html
+Duel Decks: Speed vs. Cunning: /ddn/en.html
+Duel Decks: Jace vs. Vraska: /ddm/en.html
+Duel Decks: Heroes vs. Monsters: /ddl/en.html
+Duel Decks: Sorin vs. Tibalt: /ddk/en.html
+Duel Decks: Izzet vs. Golgari: /ddj/en.html
+Duel Decks: Venser vs. Koth: /ddi/en.html
+Duel Decks: Ajani vs. Nicol Bolas: /ddh/en.html
+Duel Decks: Knights vs. Dragons: /ddg/en.html
+Duel Decks: Elspeth vs. Tezzeret: /ddf/en.html
+Duel Decks: Phyrexia vs. The Coalition: /pvc/en.html
+Duel Decks: Garruk vs. Liliana: /gvl/en.html
+Duel Decks: Divine vs. Demonic: /dvd/en.html
+Duel Decks: Jace vs. Chandra: /jvc/en.html
+Duel Decks: Elves vs. Goblins: /evg/en.html
+Coldsnap Theme Decks: /cstd/en.html
+Ninth Edition Box Set: /9eb/en.html
+Eighth Edition Box Set: /8eb/en.html
+Deckmasters: /dm/en.html
+Beatdown Box Set: /bd/en.html
+Battle Royale Box Set: /br/en.html
+Anthologies: /at/en.html
+Multiverse Gift Box Cards: /mgbc/en.html
+Unstable: /ust/en.html
+Unhinged: /uh/en.html
+Unglued: /ug/en.html
+Unhinged Alternate Foils: /uhaa/en.html
+Welcome Deck 2017: /w17/en.html
+Welcome Deck 2016: /w16/en.html
+Starter 2000: /st2k/en.html
+Starter 1999: /st/en.html
+Portal Three Kingdoms: /p3k/en.html
+Portal Second Age: /po2/en.html
+Portal: /po/en.html
+Introductory Two-Player Set: /itp/en.html
+Collector's Edition: /ced/en.html
+International Collectors' Edition: /cedi/en.html
+Ugin's Fate: /ugin/en.html
+15th Anniversary: /15ann/en.html
+Grand Prix: /gpx/en.html
+Pro Tour: /pro/en.html
+Magic Game Day Cards: /mgdc/en.html
+Worlds: /wrl/en.html
+World Magic Cup Qualifiers: /wmcq/en.html
+Dragon Con: /drc/en.html
+Prerelease Events: /ptc/en.html
+Release Events: /rep/en.html
+Magic: The Gathering Launch Parties: /mlp/en.html
+Summer of Magic: /sum/en.html
+WPN/Gateway: /grc/en.html
+Champs: /cp/en.html
+Two-Headed Giant Tournament: /thgt/en.html
+Arena League: /arena/en.html
+Friday Night Magic: /fnmp/en.html
+Magic Player Rewards: /mprp/en.html
+Super Series: /sus/en.html
+Happy Holidays: /hho/en.html
+Judge Gift Program: /jr/en.html
+Portal Demogame: /pot/en.html
+European Land Program: /euro/en.html
+Guru: /guru/en.html
+Asia Pacific Land Program: /apac/en.html
+WotC Online Store: /wotc/en.html
+Celebration Cards: /uqc/en.html
+Clash Pack: /clash/en.html
+Media Inserts: /mbp/en.html
+Legend Membership: /dcilm/en.html

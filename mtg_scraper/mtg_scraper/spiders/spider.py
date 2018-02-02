@@ -4,15 +4,22 @@
 
 import re
 import scrapy
+import card_types
 
 
 
 class MtgScraper(scrapy.Spider):
+    #Scrapy vars
     name= "mtg"
     start_urls= [
         "https://magiccards.info/sitemap.html",
     ]
+    #Text processing funcions
+    def getType(self, s):
+        pass
 
+
+    #Scraping functions
     def parse(self, response):
         for setUrl in response.css("li a::attr(href)").re(r"/.*/en.html")[:1]:
             self.log("Found a link to set: %s" % setUrl)
